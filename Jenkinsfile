@@ -1,7 +1,5 @@
 pipeline{
-    agent{
-        agent any
-    }
+   agent any
     environment{
         DOCKERHUB_CREDENTIALS = credentials('dh_cred')
         IMAGE_TAG = sh(script: 'git describe --tags --abbrev=0', returnStdout: true).trim()
