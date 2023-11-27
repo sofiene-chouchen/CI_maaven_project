@@ -1,0 +1,13 @@
+com/poly/gestioncatalogueg1/service/ServiceProduit.class
+com/poly/gestioncatalogueg1/dao/CategorieRepository.class
+com/poly/gestioncatalogueg1/dao/ProduitRepository.class
+com/poly/gestioncatalogueg1/controleur/ControleurProduit.class
+com/poly/gestioncatalogueg1/service/IServiceCategorie.class
+com/poly/gestioncatalogueg1/entities/Produit$ProduitBuilder.class
+com/poly/gestioncatalogueg1/entities/Categorie$CategorieBuilder.class
+com/poly/gestioncatalogueg1/controleur/ControllerCategorie.class
+com/poly/gestioncatalogueg1/entities/Produit.class
+com/poly/gestioncatalogueg1/GestionCatalogueG1Application.class
+com/poly/gestioncatalogueg1/service/ServiceCategorie.class
+com/poly/gestioncatalogueg1/service/IServiceProduit.class
+com/poly/gestioncatalogueg1/entities/Categorie.class

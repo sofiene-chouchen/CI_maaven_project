@@ -1,0 +1,11 @@
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/controleur/ControleurProduit.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/entities/Produit.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/dao/ProduitRepository.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/dao/CategorieRepository.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/GestionCatalogueG1Application.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/controleur/ControllerCategorie.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/entities/Categorie.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/service/IServiceProduit.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/service/ServiceProduit.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/service/IServiceCategorie.java
+/home/sofiene/cours/5em/Devops/gestionCatalogueG1VersionHarzzalh/gestionCatalogueG1/src/main/java/com/poly/gestioncatalogueg1/service/ServiceCategorie.java
